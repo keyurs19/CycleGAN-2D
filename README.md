@@ -6,4 +6,6 @@ CBCT to CT translation using CycleGAN model
 Authors: Keyur D. Shah, James A. Shackleford, Nagarajan Kandasamy and Gregory C. Sharp.
 
 Please reach out to Keyur at keyurs19@gmail.com in case of any questions.
-Please cite this repo if used in any publication (Official publication coming soon).
+Please cite as follows if used in any publication:
+
+Shah, K., et al. "Improving Cone-Beam CT Auto-Segmentation Accuracy Using Cycle GANs for Domain Adaptation." MEDICAL PHYSICS. Vol. 49. No. 6. 111 RIVER ST, HOBOKEN 07030-5774, NJ USA: WILEY, 2022.
